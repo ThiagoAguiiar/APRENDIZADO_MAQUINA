@@ -1,9 +1,9 @@
 # Aprendizado de Máquina
 
 ## GRUPO
-Frank Rodrigo
-Felipe Adriano
-Thiago Aguiar
+- Frank Rodrigo
+- Felipe Adriano
+- Thiago Aguiar
 
 
 ## TEMA
@@ -16,4 +16,5 @@ Diante dos recentes casos de dengue em Campinas e do impacto na rede de saúde, 
 2. Fazer Upload do Notebook que se encontra neste repositório
 3. Incluir na raiz do projeto a base de dados que também está disponível
 4. Rodar os blocos de código para visualizar métricas e resultados
+
 
